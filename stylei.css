@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	background-color: #009A9D;
+}
+h1{
+	border: 5px solid navy;
+}
+nav{
+	border: 5px dashed red;	
+}
+main{
+	border: 5px solid green;
+}
+li{
+	display: inline;
+}
+img{	
+	margin: 5px;
+	width: 45%;
+}
+#navi{
+	display: inline;
+}
+#llama{
+	border: 3px dashed yellow;	
+}
+#tucan{
+	border: 3px dashed yellow;
+}
